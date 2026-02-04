@@ -36,13 +36,3 @@ Me apasiona el desarrollo Frontend y Backend, y estoy enfocado en construir apli
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b1wash&theme=dark&hide_border=false&layout=compact" alt="Lenguajes de Biwash" />
 </p>
-
-## 🏆 GitHub Trophies
-![Trofeos de Biwash](https://github-profile-trophy.vercel.app/?username=b1wash&theme=radical&no-frame=false&no-bg=true&column=7)
-
----
-<p align="right">
-  <a href="https://visitcount.itsvg.in/api?id=b1wash&icon=0&color=0">
-    <img src="https://visitcount.itsvg.in/api?id=b1wash&icon=0&color=0" alt="Visit Count" />
-  </a>
-</p>
