@@ -7,9 +7,9 @@ Me apasiona el desarrollo Frontend y Backend, y estoy enfocado en construir apli
 
 ## 🌐 Socials:
 <p align="left">
-<a href="https://www.linkedin.com/in/biwash-shrestha-77315a182/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="Biwash LinkedIn" /></a>
-<a href="https://instagram.com/biwash_shr" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="biwash_shr" /></a>
-<a href="mailto:biwas96@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="biwas96@gmail.com" /></a>
+<a href="https://www.linkedin.com/in/biwash-shrestha-77315a182/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://instagram.com/biwash_shr" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a>
+<a href="mailto:biwas96@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
@@ -26,17 +26,15 @@ Me apasiona el desarrollo Frontend y Backend, y estoy enfocado en construir apli
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### 🔧 Tools & Design
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=b1wash&show_icons=true&theme=tokyonight" alt="Stats de Biwash" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=b1wash&theme=tokyonight" alt="Streak de Biwash" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b1wash&layout=compact&theme=tokyonight" alt="Lenguajes de Biwash" />
+  <img src="https://github-readme-stats.vercel.app/api?username=b1wash&show_icons=true&theme=tokyonight&count_private=true" alt="Stats de Biwash" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b1wash&layout=compact&theme=tokyonight&count_private=true" alt="Lenguajes de Biwash" />
 </p>
 
 ---
