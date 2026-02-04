@@ -1,7 +1,7 @@
 # 💫 About Me:
-👋 ¡Hola! Soy **Biwash**. Actualmente soy estudiante de **2º de Desarrollo de Aplicaciones Web (DAW)**. 
+👋 Hi there! I'm **Biwash**, a final-year **Web Application Development (DAW)** student.
 
-Me apasiona el desarrollo Frontend y Backend, y estoy enfocado en construir aplicaciones web eficientes, escalables y con una gran experiencia de usuario. ¡Buscando siempre nuevos retos para seguir creciendo como desarrollador!
+I'm a Full-stack enthusiast passionate about crafting efficient, scalable, and user-friendly web applications. I’m constantly seeking new challenges to push my limits and grow as a developer!
 
 ---
 
