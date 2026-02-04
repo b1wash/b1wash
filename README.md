@@ -6,9 +6,11 @@ Me apasiona el desarrollo Frontend y Backend, y estoy enfocado en construir apli
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biwash-shrestha-77315a182/) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/biwash_shr) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:biwas96@gmail.com) 
+<p align="left">
+<a href="https://www.linkedin.com/in/biwash-shrestha-77315a182/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="Biwash LinkedIn" /></a>
+<a href="https://instagram.com/biwash_shr" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="biwash_shr" /></a>
+<a href="mailto:biwas96@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="biwas96@gmail.com" /></a>
+</p>
 
 ---
 
@@ -30,9 +32,14 @@ Me apasiona el desarrollo Frontend y Backend, y estoy enfocado en construir apli
 
 # 📊 GitHub Stats:
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=b1wash&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Stats de Biwash" />
-<br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=b1wash&theme=dark&hide_border=false" alt="Streak de Biwash" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b1wash&theme=dark&hide_border=false&layout=compact" alt="Lenguajes de Biwash" />
+  <img src="https://github-readme-stats.vercel.app/api?username=b1wash&show_icons=true&theme=tokyonight" alt="Stats de Biwash" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=b1wash&theme=tokyonight" alt="Streak de Biwash" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b1wash&layout=compact&theme=tokyonight" alt="Lenguajes de Biwash" />
+</p>
+
+---
+<p align="right">
+  <img src="https://visitcount.itsvg.in/api?id=b1wash&icon=0&color=0" alt="Visit Count" />
 </p>
